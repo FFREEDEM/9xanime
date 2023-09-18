@@ -1,0 +1,8 @@
+ <div class="swiper-slide">
+                    <div class="box" style="background-image: url(img/naruto.jpg) no-repeat"></div>
+                    <div class="content">
+                        <h3>naruto</h3>
+                        <p>hlo userrs downlod naruto here</p>
+                        <a href="#" class="btn">downlod</a>
+                    </div>
+                </div>
